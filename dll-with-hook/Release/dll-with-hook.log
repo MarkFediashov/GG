@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dll-with-hook.cpp
+  dllmain.cpp
+     Creating library C:\Users\User\Documents\Visual Studio 2015\Projects\dimos\Release\dll-with-hook.lib and object C:\Users\User\Documents\Visual Studio 2015\Projects\dimos\Release\dll-with-hook.exp
+  Generating code
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dll-with-hook.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\dimos\Release\dll-with-hook.dll
